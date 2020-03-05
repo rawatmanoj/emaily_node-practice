@@ -7,4 +7,3 @@ module.exports={
     mongoURI:process.env.MONGO_URI
 }
 
-//mongodb+srv://rawatmanoj997:rawat9997752847@cluster0-uy91z.mongodb.net/test?retryWrites=true&w=majority
